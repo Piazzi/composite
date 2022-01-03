@@ -4,7 +4,7 @@
 
 # Code
 
-Simple project representing the composite design pattern. 
+Simple project representing the composite design pattern. For this one i've created a code that represents a book and its chapters.
 
 # Resume
 
